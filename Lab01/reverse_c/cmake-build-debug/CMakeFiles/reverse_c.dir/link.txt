@@ -1,0 +1,1 @@
+/usr/bin/cc -g CMakeFiles/reverse_c.dir/main.c.o -o reverse_c
